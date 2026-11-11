@@ -1,11 +1,12 @@
 # Ticket 01: Network Connectivity Troubleshooting
 
+
 ## Ticket Information
 - ### Category:
   Networking
 - ### Priority:
   High
-- ### Enviorment:
+- ### Environment:
   Windows 11
 - ### Date:
   11/9/2026
@@ -13,8 +14,10 @@
   Unresolved
 
 ## Reported Issue
+The user reports that their Windows 11 computer is connected to the Wi-Fi but there is no internet access.
 
-## Initial Assesment
+## Initial Assessment
+The user reported that their Windows 11 computer is connected to the Wi-Fi but the computer cannot access the internet.
 
 ## Troubleshooting Steps
 
