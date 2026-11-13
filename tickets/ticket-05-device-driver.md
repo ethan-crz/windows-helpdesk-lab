@@ -5,7 +5,7 @@
 - **Category:** Windows / Devices and Drivers
 - **Priority:** Low
 - **Environment:** Windows 11
-- **Date:** [Date the lab was completed]
+- **Date:** 11/11/2026
 - **Status:** Resolved
 
 ## Reported Issue
