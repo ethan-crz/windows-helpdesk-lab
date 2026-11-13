@@ -110,4 +110,4 @@ The following screenshots supported the following:
 ## Lessons Learned
 Wi-Fi connectivity, gateway reachability, external IP connectivity, DNS resolution, and browser access are separate checks. Each test provides evidence about a specific part of the connection.
 
-Successful external ping replies do not prove that DNS resolution or website access works. Testing each of these features provides 
+Successful external ping replies do not prove that DNS resolution or website access works. Testing each separately provides a more complete picture of the connection.
