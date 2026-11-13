@@ -16,7 +16,7 @@
 ## Reported Issue
 The user reports that their Windows 11 computer is connected to the Wi-Fi but there is no internet access.
 
-> The reported outage is a simulated scenario; an actual internet outage was not present for this ticket.
+> The reported problem is a simulated scenario; an actual internet outage was not present for this ticket.
 
 ## Initial Assessment
 The user reported that their Windows 11 computer is connected to the Wi-Fi but the computer cannot access the internet.
