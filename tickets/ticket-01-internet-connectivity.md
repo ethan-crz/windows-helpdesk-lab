@@ -2,16 +2,11 @@
 
 
 ## Ticket Information
-- ### Category:
-  Networking
-- ### Priority:
-  Low
-- ### Environment:
-  Windows 11
-- ### Date:
-  11/9/2026
-- ### Status:
-  Resolved
+- **Category**: Networking
+- **Priority**: Low
+- **Environment**: Windows 11
+- **Date**: 11/9/2026
+- **Status**: Resolved
 
 ## Reported Issue
 The user reports that their Windows 11 computer is connected to the Wi-Fi but there is no internet access.
