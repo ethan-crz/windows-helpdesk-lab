@@ -1,11 +1,10 @@
 # Ticket 01: Network Connectivity Troubleshooting
 
-
 ## Ticket Information
 - **Category**: Networking
 - **Priority**: Low
 - **Environment**: Windows 11
-- **Date**: 11/9/2026
+- **Date**: November 9, 2026
 - **Status**: Resolved
 
 ## Reported Issue
