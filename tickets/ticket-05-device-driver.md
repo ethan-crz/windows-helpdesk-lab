@@ -48,7 +48,7 @@ I checked the information shown in the General and Details tabs.
 | Manufacturer shown in Windows | Microsoft |
 | Location | on USB Input Device |
 
-![Device description in the Details tab.](../screenshots/ticket-05/ticket-05-details.png)
+![Device description in the Details tab.](../screenshots/ticket-05/ticket-05-driver.png)
 > These properties documented how Windows identified the device.
 
 ### 5. Enabled the mouse and checked its status
