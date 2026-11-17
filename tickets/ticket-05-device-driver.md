@@ -2,7 +2,7 @@
 
 ## Ticket Information
 
-- **Category:** Windows / Devices and Drivers
+- **Category:** Devices and Drivers
 - **Priority:** Low
 - **Environment:** Windows 11
 - **Date:** November 11, 2026
