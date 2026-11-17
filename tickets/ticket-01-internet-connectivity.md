@@ -3,7 +3,7 @@
 ## Ticket Information
 - **Category**: Networking
 - **Priority**: Low
-- **Environment**: Windows 11
+- **Environment**: Windows 11 Home
 - **Date**: November 9, 2026
 - **Status**: Resolved
 
